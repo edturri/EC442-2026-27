@@ -1,6 +1,8 @@
 # EC442 Macroeconomics for MRes students, 2026-27
 
-Class materials for EC442 at the London School of Economics (Autumn 2026, lecturer: Matthias Doepke; classes: Enrico D. Turri).
+Class materials for EC442 at the London School of Economics by Enrico D. Turri.
+
+Instructors: Matthias Doepke, Ethan Ilzetzki, Jane Olmstead-Rumsey, Dmitry Mukhin
 
 ## Contents
 
