@@ -6,6 +6,20 @@ Instructors: Matthias Doepke, Ethan Ilzetzki, Jane Olmstead-Rumsey, Dmitry Mukhi
 
 ## Notebooks
 
-| Notebook | Contents |
-|---|---|
-| [Problem Set 2, Questions 1–2](EC442_26_27_problem_set_2_notebook_q1_q2.ipynb) | Value function iteration on a grid for the neoclassical growth model, built step by step; value and policy functions, the steady state and analytical sanity checks; time series of capital from different initial conditions and convergence across countries; Howard's policy improvement algorithm and why it is faster; the effect of the grid size on accuracy and speed; other ways to speed up the computation |
+<table>
+<tr>
+<th width="30%">Notebook</th>
+<th>Contents</th>
+</tr>
+<tr>
+<td><a href="EC442_26_27_problem_set_2_notebook_q1_q2.ipynb">Problem Set 2,<br>Questions 1–2</a></td>
+<td>
+<ul>
+<li>Value function iteration for the neoclassical growth model</li>
+<li>Howard's policy improvement algorithm (policy function iteration)</li>
+<li>Grids, accuracy and speed</li>
+<li>Other ways to speed up the computation</li>
+</ul>
+</td>
+</tr>
+</table>
