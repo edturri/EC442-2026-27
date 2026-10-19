@@ -8,8 +8,8 @@ Instructors: Matthias Doepke, Ethan Ilzetzki, Jane Olmstead-Rumsey, Dmitry Mukhi
 
 <table>
 <tr>
-<th width="30%">Notebook</th>
-<th width="70%">Contents</th>
+<th width="300">Notebook</th>
+<th width="1000">Contents</th>
 </tr>
 <tr>
 <td><a href="EC442_26_27_problem_set_2_notebook_q1_q2.ipynb">Problem Set 2<br>Questions 1–2</a></td>
