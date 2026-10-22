@@ -22,4 +22,15 @@ Instructors: Matthias Doepke, Ethan Ilzetzki, Jane Olmstead-Rumsey, Dmitry Mukhi
 </ul>
 </td>
 </tr>
+<tr>
+<td><a href="EC442_26_27_problem_set_3_notebook_q1_q3.ipynb">Problem Set 3<br>Questions 1 and 3</a></td>
+<td>
+<ul>
+<li>Value function iteration with polynomial approximation</li>
+<li>An AK model with endogenous labour supply: value function iteration, checks against the theory and simulations</li>
+<li>Why polynomials of odd degree go wrong</li>
+<li>Better nodes and better polynomials</li>
+</ul>
+</td>
+</tr>
 </table>
