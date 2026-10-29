@@ -31,4 +31,13 @@ Instructors: Matthias Doepke, Ethan Ilzetzki, Jane Olmstead-Rumsey, Dmitry Mukhi
 </ul>
 </td>
 </tr>
+<tr>
+<td><a href="EC442_26_27_problem_set_4_notebook_q1_q2.ipynb">Problem Set 4<br>Questions 1–2</a></td>
+<td>
+<ul>
+<li>Value function iteration with two state variables: a growth model with physical and human capital</li>
+<li>The Lucas (1988) model: balanced growth and homogeneity</li>
+</ul>
+</td>
+</tr>
 </table>
